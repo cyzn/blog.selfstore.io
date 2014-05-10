@@ -1,16 +1,14 @@
 title:            SelfStore 博客
-description:      为数字创作者提供易用的支付和送达服务。
+description:      为数字创作者提供易用的收款和送达服务。
 url:              # Site url.
 baseurl:          # Base url. ( if use subdirectory-like URL )
 signoff:          SelfStore
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+disqus_shortname: selfstore
 google_analytics_id: # set tracking, UA-XXXX-Y.
 
 links:
   - name:         SelfStore
     url:          https://selfstore.io/
-  - name:         博客
-    url:          /
   - name:         关于
     url:          https://selfstore.io/about
   - name:         Feed
