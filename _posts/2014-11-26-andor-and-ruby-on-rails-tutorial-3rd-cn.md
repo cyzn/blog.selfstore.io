@@ -15,6 +15,9 @@ title: Andor 和 《Ruby on Rails 教程（原书第 3 版）》
 
 谢谢。这本书是[《Ruby on Rails Tutorial, Third Edition》](https://www.railstutorial.org/)的简体中文版，由原作者授权我翻译和销售。这本书是公认最好的 Rails 入门书，我学习 Ruby 之初就听说过。这本书面向的是“初学者”。如果你对 Web 开发感兴趣，而且对 Ruby 和 Rails 有所耳闻，直接看这本书是不错的选择。
 
+> 作品主页：http://railstutorial-china.org/  
+> 购买链接：https://selfstore.io/products/189
+
 ### 从译者角度看，Ruby on Rails 教程第 3 版相比第 2 版有什么变化？
 
 单纯从译者的角度来说，最大的变化是“内容调整幅度大，不是简单的升级”，所以要重新翻译的内容很多。我不是资深 Rails 开发者，单在翻译过程中我发现的变化有：1）放弃使用 RSpec，转用 Minitest；2）减少介绍搭建环境的篇幅，直接用云端集成开发环境；3）部分文字、表述方式的调整，更易于理解也更专业；4）新增一些章节，介绍几乎所有应用都会用到的功能，例如发送邮件，账户激活和密码重设。其实这些变化，正如作者在书中所说的，是为了“降低门槛”，对初学者更友好，专注 Rails 开发本身。
@@ -46,3 +49,5 @@ title: Andor 和 《Ruby on Rails 教程（原书第 3 版）》
 ### 感谢你的分享，最后对读者们说几句话吧。
 
 我一直都在有意无意中向读者表达我的感谢，因为有了你们的支持我才能坚持把 Rails 教程这本书译完，而且第 3 版出来之后，又跟进翻译。谢谢你们！
+
+<a class="big-button blue" href="https://selfstore.io/products/189">现在购买《Ruby on Rails 教程（原书第 3 版）》</a>
