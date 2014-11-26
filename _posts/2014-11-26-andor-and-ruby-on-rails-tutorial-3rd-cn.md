@@ -16,7 +16,7 @@ title: Andor 和 《Ruby on Rails 教程（原书第 3 版）》
 谢谢。这本书是[《Ruby on Rails Tutorial, Third Edition》](https://www.railstutorial.org/)的简体中文版，由原作者授权我翻译和销售。这本书是公认最好的 Rails 入门书，我学习 Ruby 之初就听说过。这本书面向的是“初学者”。如果你对 Web 开发感兴趣，而且对 Ruby 和 Rails 有所耳闻，直接看这本书是不错的选择。
 
 > 作品主页：http://railstutorial-china.org/  
-> 购买链接：https://selfstore.io/products/189
+> 购买页面：https://selfstore.io/products/189
 
 ### 从译者角度看，Ruby on Rails 教程第 3 版相比第 2 版有什么变化？
 
