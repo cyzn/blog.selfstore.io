@@ -9,7 +9,7 @@ title: 保存到 Dropbox
 >
 > Dropbox 是目前最流行的个人云储存服务，它可以方便地在电脑、手机、平板间同步文件。要使用本文介绍的功能，你需要注册 Dropbox 帐号：https://www.dropbox.com/ 。
 
-进入文件下载页面，你会看到文件列表的右边有一个“发送”按钮，点击出现下拉菜单，选择“保存到 Dropbox”：
+进入文件下载页面（[例子](https://selfstore.io/products/189/samples)），你会看到文件列表的右边有一个“发送”按钮，点击出现下拉菜单，选择“保存到 Dropbox”：
 
 ![](/images/posts/2014-12-02-dropbox-saver/button.png)
 
